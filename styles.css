@@ -1,0 +1,24 @@
+body {
+  background-color: #EAF6F6;
+}
+
+h1 {
+  text-align: center;
+  text-shadow: #CF0 2px 0 20px;
+  font: 40px Lucida Grande;
+}
+
+h2 {
+  text-align: center;
+  text-shadow: #FC0 1px 0 10px;
+  font: 25px Lucida Grande;
+}
+
+h3 {
+  font: 15px Lucida Grande;
+}
+
+form {
+  font: 15px Lucida Grande;
+  text-align: center;
+}
